@@ -95,7 +95,7 @@ return {
                 fg_reverse = palette.waveBlue1,
 
                 bg_dim     = palette.sumiInk1,
-                bg_gutter  = palette.sumiInk4,
+                bg_gutter  = palette.sumiInk1,
 
                 bg_m3      = palette.sumiInk0,
                 bg_m2      = palette.sumiInk1,
